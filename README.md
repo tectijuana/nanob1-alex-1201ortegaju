@@ -1,28 +1,47 @@
-![](http://www.bettshow.com/library_5/1738756_assocImage_2.png?rndUUID=935D8560-F6D9-649D-B65F22B5D35C8F97)
+#TITULOS
+## SubTitulos
+![](https://pbs.twimg.com/profile_images/881543860954046468/2TkyhEhP.jpg)
+# Introducción 
+La  **programación**  es un proceso que se utiliza para idear y ordenar las acciones que se realizarán en el marco de un proyecto; al anuncio o espectáculo; a la preparación de máquinas para que cumplan con una cierta tarea en un momento determinado; a la elaboración de programas para la resolución de problemas mediante ordenadores, y a la preparación de los datos necesarios para obtener una solución de un problema.
 
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/4970280.png" width="477" height="65" alt="T E M P L E T E" /></a>
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+# De los problemas a los programas
 
-Plantilla generica de todo repositorio.
+Tiene como principal función el hecho de conseguir que innumerables trabajos que antes ejercíamos de forma manual y con un alto costo sean ejecutados por un ordenador con un ahorro significativo de tiempo. Por otro lado, dada la increíble cantidad de información que hoy en día se maneja para distintas tareas, la **programación** es una herramienta de enorme valor porque permite bucear en la misma con muchísima facilidad.
 
-1. Tutor básico de Git en 15 minutos http://try.github.com por CodeSchool
-2. Git Guru https://www.atlassian.com/git/tutorials por GitBucket
-3. Git comandos como glosario https://www.atlassian.com/git/glossary
-4. DZone resumen tutorial mas popular https://dzone.com/refcardz/getting-started-git
-5. Nuestro glosario español https://github.com/tectijuana/PlantillaInicio/blob/master/glosario.md
+# Definicion de lenguaje
 
-----
+Capacidad propia del ser humano para expresar pensamientos y sentimientos por medio de la palabra.
 
-Git for Windows hay tres versiones pero la mas recomendable es https://git-scm.com/download/win Git For Windows 2
+# Definicion de algoritmo
 
-----
+Conjunto ordenado de operaciones sistemáticas que permite hacer un cálculo y hallar la solución de un tipo de problemas.
 
-![](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/basics-linux-commands_orig.jpg)
+# Algoritmos cotidianos
+# EJEMPLOS DE ALGORITMOS DE LA VIDA COTIDIANA
 
-Aprender Linux básico 
-https://likegeeks.com/main-linux-commands-easy-guide/
+Algoritmo para lavarse las manos
 
-Tips de Linux para ser productivos
-https://dzone.com/articles/most-useful-linux-command-line-tricks?edition=306244&utm_source=weekly%20digest&utm_medium=email&utm_campaign=wd%202017-07-12
+INICIO
+Abrir el grifo de agua.
+Mojarse las manos.
+Aplicarse jabón.
+Enjuagarse las manos.
+Cerrar el grifo de agua.
+Secarse la manos con papel.
+Exponer las manos a corriente de aire caliente.<
+FIN
 
+Algoritmo para cambiar la llanta de un auto.
 
+INICIO.
+levantar el auto con la gata.
+soltar y sacar los pernos de la llanta.
+quitar la llanta.
+colocar llanta de repuesto.
+colocar y apretar los pernos.
+bajar la gata.
+FIN
+
+# Definicion de lenguajes algoritmicos
+
+Es una serie de simbolos y reglas que se utilizan para describir de manera explicativa un proceso, que serviran de apoyo para describir las soluciones es que aqui se plantean
